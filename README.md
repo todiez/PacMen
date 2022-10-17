@@ -1,5 +1,5 @@
 # PacMen
-Factory for making Pacmen
+This is afactory for making Pacmen. Sounds like fun :)
 
 When button "make one" is pressed a new Pacmen appears, if you pressing "Start Game" all the pac men start to move around randomly.
 
